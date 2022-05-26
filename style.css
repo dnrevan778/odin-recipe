@@ -1,0 +1,14 @@
+div {
+    background-color: lightpink;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+span {
+    color: orange;
+}
+
+.img{
+   margin-left:200px;
+}
